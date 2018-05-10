@@ -1,4 +1,9 @@
 <!DICTYPE html>
+	<head>
+		<title>
+			Git 소개
+		</title>
+	</head>
 	<body>
 		<header>
 			<h1>GIT</h1>
@@ -6,7 +11,8 @@
 		<ul>
 			<li>GIT이란 무엇인가?</li>
 			<li>버전</li>
-			<li>Brunch</li>
+			<li>Branch<li>
+
 		</ul>
 	</body>
 <html>
