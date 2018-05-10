@@ -1,5 +1,7 @@
 <!DICTYPE html>
 	<body>
-		<h1>GIT</h1>
+		<header>
+			<h1>GIT</h1>
+		</header>
 	</body>
 <html>
